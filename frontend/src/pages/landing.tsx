@@ -125,11 +125,11 @@ export function Landing() {
             <a href="mailto:ljh6c6a68@gmail.com" className="hover:text-white">
               ljh6c6a68@gmail.com
             </a>
-            <a href="https://x.com/xCreat0r" target="_blank" rel="noopener noreferrer" className="hover:text-white">
-              @xCreat0r
+            <a href="https://x.com/selfhacker513" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+              @selfhacker513
             </a>
-            <a href="https://github.com/xCreat0r" target="_blank" rel="noopener noreferrer" className="hover:text-white">
-              github.com/xCreat0r
+            <a href="https://github.com/selfhacker" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+              github.com/selfhacker
             </a>
           </div>
           <div className="pt-4 text-center text-sm text-neutral-500">
